@@ -1,73 +1,44 @@
-# Deutsches Sprachpaket für VS Code
+# Afrikaanse Taalpak vir VS Code
 
-Das deutsche Sprachpaket bietet eine lokalisierte Benutzeroberfläche für VS Code.
+Die Afrikaanse taalpak bied 'n gelokaliseerde gebruikerskoppelvlak vir VS Code.
 
-## Verwendung
+## Gebruik
 
-Sie können die Standardsprache der Benutzeroberfläche außer Kraft setzen, indem Sie die VS Code-Anzeigesprache explizit über den Befehl "Anzeigesprache konfigurieren" festlegen. 
+U kan die verstektaal van die gebruikerskoppelvlak oorskryf deur die VS Code-vertoonstaal eksplisiet te stel met die **"Anpas vertoonstaal"**-opdrag.
 
-Drücken Sie "STRG+UMSCHALT+P", um die Befehlspalette aufzurufen, und beginnen Sie mit der Eingabe von "Anzeige", um den Befehl "Anzeigesprache konfigurieren" zu filtern und anzuzeigen.
+Druk `Ctrl+Shift+P` om die **Opdragpalet** te roep, en begin `display` tik om die opdrag te filter en te vertoon.
 
-Drücken Sie die EINGABETASTE, und eine Liste installierter Sprachen nach Gebietsschema wird angezeigt. Das aktuelle Gebietsschema ist hervorgehoben. Wählen Sie ein anderes Gebietsschema aus, um die Sprache der Benutzeroberfläche zu wechseln.
+Druk `Enter`, en 'n lys van geïnstalleerde tale volgens lokaal sal verskyn, met die huidige lokaal wat uitgelig is. Kies 'n ander lokaal om die taal te wissel.
 
-Siehe [Dokumentation](https://go.microsoft.com/fwlink/?LinkId=761051) für mehr Informationen.
+Sien [Dokumentasie](https://go.microsoft.com/fwlink/?LinkId=761051) vir meer inligting.
 
-## Unterstützen
+## Bydraes
 
-Um Feedback zur Verbesserung der Übersetzung zu übermitteln, erstellen Sie ein Issue im Repository "vscode-loc".
+Om terugvoer vir vertaalverbeterings te gee, skep asseblief 'n kwessie ("Issue") in die [vscode-loc](https://github.com/microsoft/vscode-loc)-bewaarplek.
 
-Die Übersetzungszeichenfolgen werden in Microsoft Localization Platform verwaltet. Die Änderung kann nur in Microsoft Localization Platform durchgeführt und dann in das Repository "vscode-loc" exportiert werden. Der Pull Request wird daher im Repository "vscode-loc" nicht akzeptiert.
+Die vertaalstringe word in Microsoft se Lokaliseringsplatform bestuur. Veranderinge kan slegs daar aangebring word en word dan na die `vscode-loc`-bewaarplek uitgevoer. Pull Requests word dus nie direk in daardie bewaarplek aanvaar nie (tensy u jou eie selfstandige pak bestuur).
 
+## Lisensie
 
-## Lizenz
+Die bronkode en stringe word gelisensieer onder die [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md)-lisensie.
 
-Der Quellcode und die Zeichenketten sind unter der Lizenz [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md) lizenziert.
+## Erkenning
 
-## Credits
+Die Afrikaanse taalpak word aan u gebring deur 'n gemeenskapgedrewe lokaliseringsinisiatief ("Deur die gemeenskap, vir die gemeenskap").
 
-Dieses Sprachpaket wurde durch Beiträge von der Community für die Community lokalisiert. Herzlichen Dank an die Mitwirkenden aus der Community, die dieses Paket verfügbar gemacht haben.
+Spesiale dank aan al die gemeenskapsbydraers wat dit moontlik gemaak het.
 
-**Top Unterstützer:**
+**Bydraer:**
 
-* Carsten Kneip
-* J.M.
-* Carsten Siemens
+* Stefan Turvey
 
-**Unterstützer:**
+**Geniet dit!**
 
-* Levin Rickert
-* Christian Gräfe
-* thefreshman89
-* Dejan Dinic
-* Jakob von der Haar
-* Ingo Bleile
-* David Ullmer
-* Volkmar Rigo
-* Stephan
-* Felix H
-* Jonas Thelemann
-* Jakob
-* Jakob Fahr
-* LosSandreas
-* Markus Weber
-* Markus Hatvan
-* Ettore Atalan
-* Arne Lehmann
-* Matt Bierner
-* Jens Suessmeyer
-* Sascha Corti
-* Jonas Droste
-* johosek
-* Christian Studer
-* Curundor
-* Florian Seidl
-* Väinämö Łūmikērø
+---
 
-**Viel Vergnügen!**
+# Afrikaans Language Pack for VS Code
 
-#  German Language Pack for VS Code
-
-German Language Pack provides localized UI experience for VS Code.
+Afrikaans Language Pack provides localized UI experience for VS Code.
 
 ## Usage
 
@@ -91,44 +62,12 @@ The source code and strings are licensed under the [MIT](https://github.com/Micr
 
 ## Credits
 
-German Language Pack is brought to you through "By the community, for the community" community localization effort.
+Afrikaans Language Pack is brought to you through "By the community, for the community" community localization effort.
 
 Special thanks to community contributors for making it available.
 
-**Top Contributors:**
+**Contributor:**
 
-* Carsten Kneip
-* J.M.
-* Carsten Siemens
-
-**Contributors:**
-
-* Levin Rickert
-* Christian Gräfe
-* thefreshman89
-* Dejan Dinic
-* Jakob von der Haar
-* Ingo Bleile
-* David Ullmer
-* Volkmar Rigo
-* Stephan
-* Felix H
-* Jonas Thelemann
-* Jakob
-* Jakob Fahr
-* LosSandreas
-* Markus Weber
-* Markus Hatvan
-* Ettore Atalan
-* Arne Lehmann
-* Matt Bierner
-* Jens Suessmeyer
-* Sascha Corti
-* Jonas Droste
-* johosek
-* Christian Studer
-* Curundor
-* Florian Seidl
-* Väinämö Łūmikērø
+* Stefan Turvey
 
 **Enjoy!**
