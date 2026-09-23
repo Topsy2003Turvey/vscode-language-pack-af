@@ -9,24 +9,24 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Format uri ('{0}') must contain exactly one substitution placeholder.": "Das Format des URI ('{0}') muss genau einen Ersatzplatzhalter enthalten.",
-			"Format uri ('{0}') uses a substitution placeholder but pattern did not capture anything.": "URI-Format ('{0}') verwendet einen Ersatzplatzhalter, aber das Muster hat nichts erfasst."
+			"Format uri ('{0}') must contain exactly one substitution placeholder.": "Die formaat van die URI ('{0}') moet presies een vervangingsplekhouer bevat.",
+			"Format uri ('{0}') uses a substitution placeholder but pattern did not capture anything.": "URI-formaat ('{0}') gebruik 'n vervangingsplekhouer, maar die patroon het niks vasgelê nie."
 		},
 		"package": {
-			"debug.server.ready.action.debugWithChrome.description": "Das Debuggen mit dem \"Debugger für Chrome\" beginnen.",
-			"debug.server.ready.action.description": "Verwendung des URI, wenn der Server bereit ist.",
-			"debug.server.ready.action.openExternally.description": "URI mit der Standardanwendung extern öffnen.",
-			"debug.server.ready.action.openIntegratedBrowser.description": "URL im integrierten Browser öffnen.",
-			"debug.server.ready.action.startDebugging.description": "Führen Sie eine andere Startkonfiguration aus.",
-			"debug.server.ready.debugConfig.description": "Die auszuführende Debugkonfiguration.",
-			"debug.server.ready.debugConfigName.description": "Name der auszuführenden Startkonfiguration.",
-			"debug.server.ready.killOnServerStop.description": "Beendet die untergeordnete Sitzung, wenn die übergeordnete Sitzung angehalten wird.",
-			"debug.server.ready.pattern.description": "Der Server ist bereit, wenn dieses Muster auf der Debugging-Konsole erscheint. Die erste Erfassungsgruppe muss einen URI oder eine Portnummer enthalten.",
-			"debug.server.ready.serverReadyAction.description": "Reagieren Sie auf einen URI, wenn ein Serverprogramm beim Debugging bereit ist (wird durch Senden einer Meldung wie \"Port 3000 wird überwacht\" oder \"https://localhost:5001 wird gerade überwacht\" an die Debugging-Konsole signalisiert.)",
-			"debug.server.ready.uriFormat.description": "Eine Formatzeichenfolge, die beim Erstellen des URI über eine Portnummer verwendet wird. Das erste '%s' wird durch die Portnummer ersetzt.",
-			"debug.server.ready.webRoot.description": "Der an die Debugkonfiguration für den \"Debugger für Chrome\" übermittelte Wert.",
-			"description": "URI in Browser öffnen, wenn der Server bereit ist, für den ein Debugging durchgeführt wird.",
-			"displayName": "Aktion \"Server bereit\""
+			"debug.server.ready.action.debugWithChrome.description": "Begin ontfout met die \"Debugger vir Chrome\".",
+			"debug.server.ready.action.description": "Gebruik van die URI wanneer die bediener gereed is.",
+			"debug.server.ready.action.openExternally.description": "Maak URI ekstern oop met die standaardtoepassing.",
+			"debug.server.ready.action.openIntegratedBrowser.description": "Maak URL in die geïntegreerde blaaier oop.",
+			"debug.server.ready.action.startDebugging.description": "Voer 'n ander beginkonfigurasie uit.",
+			"debug.server.ready.debugConfig.description": "Die ontfoutkonfigurasie wat uitgevoer moet word.",
+			"debug.server.ready.debugConfigName.description": "Naam van die beginkonfigurasie wat uitgevoer moet word.",
+			"debug.server.ready.killOnServerStop.description": "Beëindig die ondergeskikte sessie wanneer die ouersessie gestaak word.",
+			"debug.server.ready.pattern.description": "Die bediener is gereed wanneer hierdie patroon op die ontfoutkonsole verskyn. Die eerste vasleggingsgroep moet 'n URI of 'n poortnommer bevat.",
+			"debug.server.ready.serverReadyAction.description": "Reageer op 'n URI wanneer 'n bedienerprogram tydens ontfout gereed is (word aangedui deur 'n boodskap soos \"Poort 3000 word gemonitor\" of \"https://localhost:5001 word tans gemonitor\" na die ontfoutkonsole te stuur.)",
+			"debug.server.ready.uriFormat.description": "'n Formaatstring wat gebruik word wanneer die URI met 'n poortnommer geskep word. Die eerste '%s' word deur die poortnommer vervang.",
+			"debug.server.ready.webRoot.description": "Die waarde wat aan die ontfoutkonfigurasie vir die \"Debugger vir Chrome\" oorgedra word.",
+			"description": "Maak URI in blaaier oop wanneer die bediener gereed is waarvoor ontfout uitgevoer word.",
+			"displayName": "Aksie \"Bediener gereed\""
 		}
 	}
 }

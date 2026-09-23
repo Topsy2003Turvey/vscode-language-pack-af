@@ -9,21 +9,21 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Insert Image as Attachment": "Bild als Anlage einfügen"
+			"Insert Image as Attachment": "Voeg beeld as aanhangsel in"
 		},
 		"package": {
-			"addCellOutputToChat.title": "Zellenausgabe zum Chat hinzufügen",
-			"cleanInvalidImageAttachment.title": "Ungültigen Bildanlagenverweis bereinigen",
-			"copyCellOutput.title": "Zellenausgabe kopieren",
-			"description": "Bietet grundlegende Unterstützung für das Öffnen und Lesen von Jupyters .ipynb-Notizbuchdateien",
-			"displayName": "IPYNB-Unterstützung",
-			"ipynb.experimental.serialization": "Experimentelles Feature zum Serialisieren des Jupyter-Notebooks in einem Arbeitsthread.",
-			"ipynb.pasteImagesAsAttachments.enabled": "Aktivieren/Deaktivieren des Einfügens von Bildern in Markdownzellen in IPYNB-Notebook-Dateien. Eingefügte Bilder werden als Anlagen in die Zelle eingefügt.",
-			"markdownAttachmentRenderer.displayName": "Zellenanlage-Renderer „Markdown-It-IPYNB“",
+			"addCellOutputToChat.title": "Voeg seluitset by die klets",
+			"cleanInvalidImageAttachment.title": "Maak ongeldige beeldaanhangselverwysing skoon",
+			"copyCellOutput.title": "Kopieer seluitset",
+			"description": "Bied basiese ondersteuning vir die oopmaak en lees van Jupyter se .ipynb-notaboeklêers",
+			"displayName": "IPYNB-ondersteuning",
+			"ipynb.experimental.serialization": "Eksperimentele funksie om die Jupyter-notaboek in 'n werkdraad te serialiseer.",
+			"ipynb.pasteImagesAsAttachments.enabled": "Aktiveer/deakteer die invoeg van beelde in Markdown-selle in IPYNB-notaboeklêers. Ingevoegde beelde word as aanhangsels in die sel ingevoeg.",
+			"markdownAttachmentRenderer.displayName": "Selaanhangsel-renderer „Markdown-It-IPYNB“",
 			"newUntitledIpynb.shortTitle": "Jupyter Notebook",
-			"newUntitledIpynb.title": "Neues Jupyter Notebook",
-			"openCellOutput.title": "Zellenausgabe im Text-Editor öffnen",
-			"openIpynbInNotebookEditor.title": "IPYNB-Datei im Notebook-Editor öffnen"
+			"newUntitledIpynb.title": "Nuwe Jupyter Notebook",
+			"openCellOutput.title": "Maak seluitset in die teksredigeerder oop",
+			"openIpynbInNotebookEditor.title": "Maak IPYNB-lêer in die notaboekredigeerder oop"
 		}
 	}
 }

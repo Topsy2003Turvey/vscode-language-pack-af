@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in XML-Dateien.",
-			"displayName": "XML-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in XML-lêers.",
+			"displayName": "XML-taalgrondbeginsels"
 		}
 	}
 }

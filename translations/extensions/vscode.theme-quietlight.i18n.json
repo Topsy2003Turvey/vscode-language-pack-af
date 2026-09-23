@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Dezentes, helles Design für Visual Studio Code",
-			"displayName": "Dezentes, helles Design",
-			"themeLabel": "Dezent hell"
+			"description": "Still, ligte tema vir Visual Studio Code",
+			"displayName": "Still, ligte tema",
+			"themeLabel": "Still lig"
 		}
 	}
 }

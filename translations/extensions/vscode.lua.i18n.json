@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Lua-Dateien.",
-			"displayName": "Lua-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Lua-lêers.",
+			"displayName": "Lua-taalgrondbeginsels"
 		}
 	}
 }

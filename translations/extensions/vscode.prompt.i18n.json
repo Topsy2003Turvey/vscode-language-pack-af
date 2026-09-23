@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Syntaxhervorhebung für Dokumente zu Eingabeaufforderungen und Anweisungen.",
-			"displayName": "Prompt-Sprachgrundlagen"
+			"description": "Sintaksismerking vir dokumente oor invoeraanwysings en instruksies.",
+			"displayName": "Prompt-taalgrondbeginsels"
 		}
 	}
 }

@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammerabgleich in JSON-Dateien.",
-			"displayName": "JSON-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in JSON-lêers.",
+			"displayName": "JSON-taalgrondbeginsels"
 		}
 	}
 }

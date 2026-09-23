@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung für Dateien mit .log-Erweiterung.",
-			"displayName": "Protokoll"
+			"description": "Bied sintaksismerking vir lêers met die .log-uitbreiding.",
+			"displayName": "Log"
 		}
 	}
 }

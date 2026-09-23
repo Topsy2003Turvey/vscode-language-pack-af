@@ -9,10 +9,10 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"2026-dark-label": "2026 Dunkel",
-			"2026-light-label": "2026 Hell",
-			"description": "Moderne, minimalistische helle und dunkle Designs für 2026 mit konsistenter neutraler Palette und barrierefreiem Farbkontrast",
-			"displayName": "Designs 2026"
+			"2026-dark-label": "2026 Donker",
+			"2026-light-label": "2026 Lig",
+			"description": "Moderne, minimalistiese ligte en donker temas vir 2026 met 'n konsekwente neutrale palet en toeganklike kleurkontras",
+			"displayName": "Temas 2026"
 		}
 	}
 }

@@ -9,10 +9,10 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"config.markdown.math.enabled": "Aktivieren/Deaktivieren der Renderingberechnung in der integrierten Markdownvorschau.",
-			"config.markdown.math.macros": "Eine Auflistung benutzerdefinierter Makros. Jedes Makro ist ein Schlüssel-Wert-Paar, bei dem der Schlüssel ein neuer Befehlsname und der Wert die Erweiterung des Makros ist.",
-			"description": "Fügt Markdown in Notebooks mathematische Unterstützung hinzu.",
-			"displayName": "Markdown Math"
+			"config.markdown.math.enabled": "Aktiveer/deaktiveer wiskundige weergawe in die ingeboude Markdown-voorskou.",
+			"config.markdown.math.macros": "'n Lys van pasgemaakte makros. Elke makro is 'n sleutel-waarde-paar waarvan die sleutel 'n nuwe opdragnaam is en die waarde die makro se uitbreiding is.",
+			"description": "Voeg wiskundige ondersteuning by Markdown in notaboeke.",
+			"displayName": "Markdown-wiskunde"
 		}
 	}
 }

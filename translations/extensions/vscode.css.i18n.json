@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich für CSS-, LESS- und SCSS-Dateien.",
-			"displayName": "CSS-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing vir CSS-, LESS- en SCSS-lêers.",
+			"displayName": "CSS-taalgrondbeginsels"
 		}
 	}
 }

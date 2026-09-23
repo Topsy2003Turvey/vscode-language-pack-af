@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Diff-Dateien.",
-			"displayName": "Grundlagen der Diff-Sprache"
+			"description": "Bied sintaksismerking en hakiespassing in diff-lêers.",
+			"displayName": "Diff-taalgrondbeginsels"
 		}
 	}
 }

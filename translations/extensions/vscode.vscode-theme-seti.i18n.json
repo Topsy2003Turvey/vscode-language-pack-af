@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Ein Dateisymboldesign aus den Dateisymbolen der Seti-Benutzeroberfläche",
-			"displayName": "Seti-Dateisymboldesign",
+			"description": "'n Lêerikoontema uit die lêerikone van die Seti-gebruikerskoppelvlak",
+			"displayName": "Seti-lêerikoontema",
 			"themeLabel": "Seti (Visual Studio Code)"
 		}
 	}

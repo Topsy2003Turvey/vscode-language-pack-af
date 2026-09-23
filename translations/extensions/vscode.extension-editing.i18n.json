@@ -9,25 +9,25 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"API proposal versions are no longer supported. Remove the '@<version>' suffix.": "API-Vorschlagsversionen werden nicht mehr unterstützt. Entfernen Sie das Suffix „@<version>“.",
-			"Data URLs are not a valid image source.": "Daten-URLs sind keine gültige Bildquelle.",
-			"Embedded SVGs are not a valid image source.": "Eingebettete SVGs sind keine gültige Bildquelle.",
-			"Error parsing the when-clause:": "Fehler beim Analysieren der when-Klausel:",
-			"Images must use the HTTPS protocol.": "Für Bilder muss das HTTPS-Protokoll verwendet werden.",
-			"Language specific editor settings": "Sprachspezifische Editor-Einstellungen",
-			"Override editor settings for language": "Editor-Einstellungen für Sprache überschreiben",
-			"Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.": "Relative Badge-URLs erfordern die Angabe eines Repositorys mit dem HTTPS-Protokoll in dieser Datei \"package.json\".",
-			"Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.": "Relative Bild-URLs erfordern die Angabe eines Repositorys mit dem HTTPS-Protokoll in der Datei \"package.json\".",
-			"Remove activation event": "Aktivierungsereignis entfernen",
-			"SVGs are not a valid image source.": "SVGs sind keine gültige Bildquelle.",
-			"This activation event can be removed as VS Code generates these automatically from your package.json contribution declarations.": "Dieses Aktivierungsereignis kann entfernt werden, da VS Code diese automatisch aus Ihren package.json-Beitragsdeklarationen generiert.",
-			"This activation event cannot be explicitly listed by your extension.": "Dieses Aktivierungsereignis kann von Ihrer Erweiterung nicht explizit aufgeführt werden.",
-			"This proposal cannot be used because for this extension the product defines a fixed set of API proposals. You can test your extension but before publishing you MUST reach out to the VS Code team.": "Dieser Vorschlag kann nicht verwendet werden, da das Produkt für diese Erweiterung einen festen Satz von API-Vorschlägen definiert. Sie können Ihre Erweiterung testen, aber vor der Veröffentlichung MÜSSEN Sie sich an das VS Code-Team wenden.",
-			"Using '*' activation is usually a bad idea as it impacts performance.": "Die Verwendung der Aktivierung \"*\" ist in der Regel eine schlechte Idee, da sie sich auf die Leistung auswirkt."
+			"API proposal versions are no longer supported. Remove the '@<version>' suffix.": "API-voorstelweergawes word nie meer ondersteun nie. Verwyder die agtervoegsel „@<version>“.",
+			"Data URLs are not a valid image source.": "Data-URL's is nie 'n geldige beeldbron nie.",
+			"Embedded SVGs are not a valid image source.": "Ingebedde SVG's is nie 'n geldige beeldbron nie.",
+			"Error parsing the when-clause:": "Fout tydens ontleding van die when-klousule:",
+			"Images must use the HTTPS protocol.": "Vir beelde moet die HTTPS-protokol gebruik word.",
+			"Language specific editor settings": "Taalspesifieke redigeerder-instellings",
+			"Override editor settings for language": "Oorskryf redigeerder-instellings vir taal",
+			"Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.": "Relatiewe Badge-URL's vereis dat 'n bewaarplek met die HTTPS-protokol in hierdie lêer \"package.json\" aangedui word.",
+			"Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.": "Relatiewe beeld-URL's vereis dat 'n bewaarplek met die HTTPS-protokol in die lêer \"package.json\" aangedui word.",
+			"Remove activation event": "Verwyder aktiveringsgebeurtenis",
+			"SVGs are not a valid image source.": "SVG's is nie 'n geldige beeldbron nie.",
+			"This activation event can be removed as VS Code generates these automatically from your package.json contribution declarations.": "Hierdie aktiveringsgebeurtenis kan verwyder word, aangesien VS Code dit outomaties uit u package.json-bydraedeklarasies genereer.",
+			"This activation event cannot be explicitly listed by your extension.": "Hierdie aktiveringsgebeurtenis kan nie eksplisiet deur u uitbreiding gelys word nie.",
+			"This proposal cannot be used because for this extension the product defines a fixed set of API proposals. You can test your extension but before publishing you MUST reach out to the VS Code team.": "Hierdie voorstel kan nie gebruik word nie, aangesien die produk vir hierdie uitbreiding 'n vaste stel API-voorstelle definieer. U kan u uitbreiding toets, maar voor publikasie MOET u die VS Code-span kontak.",
+			"Using '*' activation is usually a bad idea as it impacts performance.": "Die gebruik van die aktivering \"*\" is gewoonlik 'n slegte idee, aangesien dit die werkverrigting beïnvloed."
 		},
 		"package": {
-			"description": "Stellt Bereinigungsfunktionen für die Erstellung von Erweiterungen zur Verfügung.",
-			"displayName": "Erweiterungserstellung"
+			"description": "Stel skoonmaakfunksies vir die skep van uitbreidings beskikbaar.",
+			"displayName": "Uitbreidingskepping"
 		}
 	}
 }

@@ -9,10 +9,10 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Erweiterung zum Hinzufügen von Terminalabschlüssen für ZSH-, Bash- und Fish-Terminals.",
-			"displayName": "Terminalvorschlag für VS Code",
-			"terminal.integrated.suggest.clearCachedGlobals": "Vorgeschlagene zwischengespeicherte globale Elemente löschen",
-			"view.name": "Terminalvorschlag"
+			"description": "Uitbreiding wat terminaalvoltooiings vir ZSH-, Bash- en Fish-terminale byvoeg.",
+			"displayName": "Terminaalvoorstelle vir VS Code",
+			"terminal.integrated.suggest.clearCachedGlobals": "Vee voorgestelde gekaste globale items uit",
+			"view.name": "Terminaalvoorstel"
 		}
 	}
 }

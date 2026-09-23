@@ -9,16 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Auto detecting Jake for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Fehler {1}' bei der automatischen Erkennung von Jake für Ordner {0}; this.workspaceFolder.name, err.error ? err.error.toString() : 'unbekannt",
-			"Go to output": "Zur Ausgabe wechseln",
-			"Problem finding jake tasks. See the output for more information.": "Fehler bei der Suche nach jake-Tasks. In der Ausgabe finden Sie weitere Informationen."
+			"Auto detecting Jake for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Fout {1}' tydens die outomatiese opsporing van Jake vir gids {0}; this.workspaceFolder.name, err.error ? err.error.toString() : 'onbekend",
+			"Go to output": "Gaan na die uitset",
+			"Problem finding jake tasks. See the output for more information.": "Fout met die soek na jake-take. In die uitset vind u verdere inligting."
 		},
 		"package": {
-			"config.jake.autoDetect": "Steuerelemente ermöglichen die Jake-Vorgangserkennung. Die Jake-Vorgangserkennung kann dazu führen, dass Dateien in jedem geöffneten Arbeitsbereich ausgeführt werden.",
-			"description": "Erweiterung zum Hinzufügen von Jake-Funktionen in VS Code.",
-			"displayName": "Jake-Unterstützung für VS Code",
-			"jake.taskDefinition.file.description": "Die Jake-Datei zum Bereitstellen der Aufgabe. Kann ausgelassen werden.",
-			"jake.taskDefinition.type.description": "Die anzupassende Jake-Aufgabe."
+			"config.jake.autoDetect": "Kontroles maak die Jake-prosesopsporing moontlik. Die Jake-prosesopsporing kan daartoe lei dat lêers in elke oopgemaakte werkruimte uitgevoer word.",
+			"description": "Uitbreiding om Jake-funksies in VS Code by te voeg.",
+			"displayName": "Jake-ondersteuning vir VS Code",
+			"jake.taskDefinition.file.description": "Die Jake-lêer om die taak te verskaf. Kan weggelaat word.",
+			"jake.taskDefinition.type.description": "Die Jake-taak wat aangepas moet word."
 		}
 	}
 }

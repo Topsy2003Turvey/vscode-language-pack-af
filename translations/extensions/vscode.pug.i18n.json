@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Pug-Dateien.",
-			"displayName": "Pug-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Pug-lêers.",
+			"displayName": "Pug-taalgrondbeginsels"
 		}
 	}
 }

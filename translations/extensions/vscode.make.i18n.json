@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Make-Dateien.",
-			"displayName": "Make-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Make-lêers.",
+			"displayName": "Make-taalgrondbeginsels"
 		}
 	}
 }

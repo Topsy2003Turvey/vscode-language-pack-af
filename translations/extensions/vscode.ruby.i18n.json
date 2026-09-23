@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Ruby-Dateien.",
-			"displayName": "Ruby-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Ruby-lêers.",
+			"displayName": "Ruby-taalgrondbeginsels"
 		}
 	}
 }

@@ -9,30 +9,30 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Always": "Immer",
-			"Auto Attach: Always": "Automatisch anfügen: immer",
-			"Auto Attach: Disabled": "Automatisch anfügen: deaktiviert",
-			"Auto Attach: Smart": "Automatisch anfügen: intelligent",
-			"Auto Attach: With Flag": "Automatisch anfügen: mit Flag",
-			"Auto attach is disabled and not shown in status bar": "Das automatische Anfügen ist deaktiviert und wird in der Statusleiste nicht angezeigt.",
-			"Auto attach to every Node.js process launched in the terminal": "Hiermit wird automatisch an jeden Node.js-Prozess angefügt, der im Terminal gestartet wird.",
-			"Auto attach when running scripts that aren't in a node_modules folder": "Hiermit wird bei Ausführung von Skripts automatisch angefügt, die sich nicht in einem node_modules-Ordner befinden.",
-			"Automatically attach to node.js processes in debug mode": "Im Debugmodus automatisch an Node.js-Prozesse anfügen",
-			"Debug Auto Attach": "Automatisches Anfügen debuggen",
-			"Disabled": "6Deaktiviert",
-			"Only With Flag": "Nur mit Flag",
-			"Only auto attach when the `--inspect` flag is given": "Hiermit wird nur dann automatisch angefügt, wenn das Flag \"--inspect\" angegeben ist.",
-			"Re-enable auto attach": "Automatisches Anfügen erneut aktivieren",
+			"Always": "Altyd",
+			"Auto Attach: Always": "Outomaties aanheg: altyd",
+			"Auto Attach: Disabled": "Outomaties aanheg: gedeaktiveer",
+			"Auto Attach: Smart": "Outomaties aanheg: intelligent",
+			"Auto Attach: With Flag": "Outomaties aanheg: met Flag",
+			"Auto attach is disabled and not shown in status bar": "Die outomatiese aanheg is gedeaktiveer en word nie in die statusbalk gewys nie.",
+			"Auto attach to every Node.js process launched in the terminal": "Hiermee word outomaties aangeheg aan elke Node.js-proses wat in die terminaal begin word.",
+			"Auto attach when running scripts that aren't in a node_modules folder": "Hiermee word outomaties aangeheg wanneer skripte uitgevoer word wat nie in 'n node_modules-gids is nie.",
+			"Automatically attach to node.js processes in debug mode": "Heg outomaties aan Node.js-prosesse in ontfoutmodus",
+			"Debug Auto Attach": "Outomatiese aanheg ontfout",
+			"Disabled": "Gedeaktiveer",
+			"Only With Flag": "Slegs met Flag",
+			"Only auto attach when the `--inspect` flag is given": "Hiermee word slegs outomaties aangeheg wanneer die Flag \"--inspect\" gegee is.",
+			"Re-enable auto attach": "Aktiveer outomatiese aanheg weer",
 			"Smart": "Intelligent",
-			"Temporarily disable auto attach in this session": "Automatisches Anfügen in dieser Sitzung vorübergehend deaktivieren",
-			"Toggle Auto Attach": "Automatisches Anfügen umschalten",
-			"Toggle auto attach in this workspace": "Automatisches Anfügen in diesem Arbeitsbereich umschalten",
-			"Toggle auto attach on this machine": "Automatisches Anfügen auf diesem Computer umschalten"
+			"Temporarily disable auto attach in this session": "Deakteer outomatiese aanheg tydelik in hierdie sessie",
+			"Toggle Auto Attach": "Wissel outomatiese aanheg",
+			"Toggle auto attach in this workspace": "Wissel outomatiese aanheg in hierdie werkruimte",
+			"Toggle auto attach on this machine": "Wissel outomatiese aanheg op hierdie rekenaar"
 		},
 		"package": {
-			"description": "Hilfsprogramm für Feature \"Automatisches Anfügen\", wenn Node-Debugging-Erweiterungen nicht aktiv sind.",
-			"displayName": "Node-Debugging – Automatisches Anfügen",
-			"toggle.auto.attach": "Automatisches Anfügen umschalten"
+			"description": "Hulpmiddel vir die funksie \"Outomatiese aanheg\" wanneer Node-ontfoutuitbreidings nie aktief is nie.",
+			"displayName": "Node-ontfout – Outomatiese aanheg",
+			"toggle.auto.attach": "Wissel outomatiese aanheg"
 		}
 	}
 }

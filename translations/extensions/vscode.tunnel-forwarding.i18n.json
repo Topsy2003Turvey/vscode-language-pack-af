@@ -9,19 +9,19 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Continue": "Weiter",
-			"Don't show again": "Nicht mehr anzeigen",
-			"Port Forwarding": "Portweiterleitung",
-			"Private": "Privat",
-			"Public": "Öffentlich",
-			"You're about to create a publicly forwarded port. Anyone on the internet will be able to connect to the service listening on port {0}. You should only proceed if this service is secure and non-sensitive.": "Sie sind dabei, einen öffentlich weitergeleiteten Port zu erstellen. Jede Person im Internet kann eine Verbindung mit dem Dienst herstellen, der an Port {0} lauscht. Sie sollten den Vorgang nur fortsetzen, wenn dieser Dienst sicher und nicht vertraulich ist."
+			"Continue": "Gaan voort",
+			"Don't show again": "Moenie weer wys nie",
+			"Port Forwarding": "Poortaanstuur",
+			"Private": "Privaat",
+			"Public": "Openbaar",
+			"You're about to create a publicly forwarded port. Anyone on the internet will be able to connect to the service listening on port {0}. You should only proceed if this service is secure and non-sensitive.": "U is op die punt om 'n openbaar aangestuurde poort te skep. Enige persoon op die internet kan 'n verbinding met die diens maak wat op poort {0} luister. U moet die proses slegs voortgaan as hierdie diens veilig en nie vertroulik is nie."
 		},
 		"package": {
-			"category": "Portweiterleitung",
-			"command.restart": "Weiterleitungssystem neu starten",
-			"command.showLog": "Protokoll anzeigen",
-			"description": "Ermöglicht den Zugriff auf die Weiterleitung lokaler Ports über das Internet.",
-			"displayName": "Lokale Tunnelportweiterleitung"
+			"category": "Poortaanstuur",
+			"command.restart": "Herbegin aanstuursisteem",
+			"command.showLog": "Wys protokol",
+			"description": "Maak toegang tot die aanstuur van plaaslike poorte oor die internet moontlik.",
+			"displayName": "Plaaslike tonnelpoortaanstuur"
 		}
 	}
 }

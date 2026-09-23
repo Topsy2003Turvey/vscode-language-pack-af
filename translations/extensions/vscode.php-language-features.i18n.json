@@ -9,23 +9,23 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Cannot validate since a PHP installation could not be found. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Kann nicht überprüft werden, da eine PHP-Installation nicht gefunden werden konnte. Verwenden Sie die Einstellung „php.validate.executablePath“, um die ausführbare PHP-Datei zu konfigurieren.",
-			"Cannot validate since no PHP executable is set. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Eine Überprüfung ist nicht möglich, da keine ausführbare PHP-Datei festgelegt ist. Verwenden Sie die Einstellung \"php.validate.executablePath\", um die ausführbare PHP-Datei zu konfigurieren.",
-			"Cannot validate since {0} is not a valid php executable. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Eine Überprüfung ist nicht möglich, da {0} keine gültige ausführbare PHP-Datei ist. Verwenden Sie die Einstellung \"'php.validate.executablePath\", um die ausführbare PHP-Datei zu konfigurieren.",
-			"Failed to run php using path: {0}. Reason is unknown.": "Fehler beim Ausführen von PHP mithilfe des Pfads \"{0}\". Die Ursache ist unbekannt.",
-			"Open Settings": "Einstellungen öffnen"
+			"Cannot validate since a PHP installation could not be found. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Kan nie nagegaan word nie, aangesien 'n PHP-installasie nie gevind kon word nie. Gebruik die instelling „php.validate.executablePath“ om die uitvoerbare PHP-lêer te konfigureer.",
+			"Cannot validate since no PHP executable is set. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Dit is nie moontlik om na te gaan nie, aangesien geen uitvoerbare PHP-lêer gestel is nie. Gebruik die instelling \"php.validate.executablePath\" om die uitvoerbare PHP-lêer te konfigureer.",
+			"Cannot validate since {0} is not a valid php executable. Use the setting 'php.validate.executablePath' to configure the PHP executable.": "Dit is nie moontlik om na te gaan nie, aangesien {0} nie 'n geldige uitvoerbare PHP-lêer is nie. Gebruik die instelling \"'php.validate.executablePath\" om die uitvoerbare PHP-lêer te konfigureer.",
+			"Failed to run php using path: {0}. Reason is unknown.": "Fout tydens uitvoer van PHP met die pad \"{0}\". Die oorsaak is onbekend.",
+			"Open Settings": "Maak instellings oop"
 		},
 		"package": {
-			"command.untrustValidationExecutable": "Ausführbare Datei für PHP-Überprüfung nicht zulassen (als Arbeitsbereicheinstellung definiert)",
+			"command.untrustValidationExecutable": "Moenie die uitvoerbare lêer vir PHP-nagaan toelaat nie (as werkruimte-instelling gedefinieer)",
 			"commands.categroy.php": "PHP",
-			"configuration.suggest.basic": "Legt fest, ob die integrierten PHP-Sprachvorschläge aktiviert sind. Die Unterstützung schlägt globale und variable PHP-Elemente vor.",
+			"configuration.suggest.basic": "Bepaal of die geïntegreerde PHP-taalvoorstelle geaktiveer is. Die ondersteuning stel globale en veranderlike PHP-elemente voor.",
 			"configuration.title": "PHP",
-			"configuration.validate.enable": "Integrierte PHP-Überprüfung aktivieren/deaktivieren.",
-			"configuration.validate.executablePath": "Zeigt auf die ausführbare PHP-Datei.",
-			"configuration.validate.run": "Gibt an, ob der Linter beim Speichern oder bei der Eingabe ausgeführt wird.",
-			"description": "Bietet umfangreiche Sprachunterstützung für PHP-Dateien.",
-			"displayName": "PHP-Sprachfeatures",
-			"workspaceTrust": "Für diese Erweiterung ist die Vertrauenswürdigkeit des Arbeitsbereichs erforderlich, wenn die Einstellung „php.validate.executablePath“ eine Version von PHP im Arbeitsbereich lädt."
+			"configuration.validate.enable": "Aktiveer/deakteer geïntegreerde PHP-nagaan.",
+			"configuration.validate.executablePath": "Wys na die uitvoerbare PHP-lêer.",
+			"configuration.validate.run": "Gee aan of die linter by stoor of by invoer uitgevoer word.",
+			"description": "Bied omvattende taalondersteuning vir PHP-lêers.",
+			"displayName": "PHP-taalfunksies",
+			"workspaceTrust": "Vir hierdie uitbreiding word die vertrouenswaardigheid van die werkruimte vereis wanneer die instelling „php.validate.executablePath“ 'n weergawe van PHP in die werkruimte laai."
 		}
 	}
 }

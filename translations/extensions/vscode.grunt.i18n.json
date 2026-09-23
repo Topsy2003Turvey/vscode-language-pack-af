@@ -9,17 +9,17 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Fehler {1}' beim automatischen Erkennen von Grunt für Ordner {0}; this.workspaceFolder.name, err.error ? err.error.toString() : 'unbekannt",
-			"Go to output": "Zur Ausgabe wechseln",
-			"Problem finding grunt tasks. See the output for more information.": "Problem bei der Suche nach Grunt-Aufgaben. Weitere Informationen finden Sie in der Ausgabe."
+			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Fout {1}' tydens die outomatiese opsporing van Grunt vir gids {0}; this.workspaceFolder.name, err.error ? err.error.toString() : 'onbekend",
+			"Go to output": "Gaan na die uitset",
+			"Problem finding grunt tasks. See the output for more information.": "Probleem met die soek na Grunt-take. Verdere inligting vind u in die uitset."
 		},
 		"package": {
-			"config.grunt.autoDetect": "Steuerelemente ermöglichen die Grunt-Vorgangserkennung. Die Grunt-Vorgangserkennung kann dazu führen, dass Dateien in jedem geöffneten Arbeitsbereich ausgeführt werden.",
-			"description": "Erweiterung zum Hinzufügen von Grunt-Funktionen in VS Code.",
-			"displayName": "Grunt-Unterstützung für VS Code",
-			"grunt.taskDefinition.args.description": "Befehlszeilenargumente, die an den Grunt-Task übergeben werden sollen",
-			"grunt.taskDefinition.file.description": "Die Grunt-Datei zum Bereitstellen der Aufgabe. Kann ausgelassen werden.",
-			"grunt.taskDefinition.type.description": "Die anzupassende Grunt-Aufgabe."
+			"config.grunt.autoDetect": "Kontroles maak die Grunt-prosesopsporing moontlik. Die Grunt-prosesopsporing kan daartoe lei dat lêers in elke oopgemaakte werkruimte uitgevoer word.",
+			"description": "Uitbreiding om Grunt-funksies in VS Code by te voeg.",
+			"displayName": "Grunt-ondersteuning vir VS Code",
+			"grunt.taskDefinition.args.description": "Opdragreëlargumente wat aan die Grunt-taak oorgedra moet word",
+			"grunt.taskDefinition.file.description": "Die Grunt-lêer om die taak te verskaf. Kan weggelaat word.",
+			"grunt.taskDefinition.type.description": "Die Grunt-taak wat aangepas moet word."
 		}
 	}
 }

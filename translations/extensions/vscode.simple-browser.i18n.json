@@ -9,20 +9,20 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Back": "Zurück",
-			"Enter url to visit": "Zu besuchende URL eingeben",
-			"Focus Lock": "Fokussperre",
-			"Forward": "Weiter",
-			"Open in browser": "Im Browser öffnen",
-			"Open in simple browser": "Im einfachen Browser öffnen",
-			"Reload": "Neu laden",
-			"Simple Browser": "Einfacher Browser",
+			"Back": "Terug",
+			"Enter url to visit": "Gee URL om te besoek",
+			"Focus Lock": "Fokusslot",
+			"Forward": "Vorentoe",
+			"Open in browser": "Maak in blaaier oop",
+			"Open in simple browser": "Maak in eenvoudige blaaier oop",
+			"Reload": "Herlaai",
+			"Simple Browser": "Eenvoudige blaaier",
 			"https://example.com": "https://example.com"
 		},
 		"package": {
-			"configuration.focusLockIndicator.enabled.description": "Hiermit wird der unverankerte Indikator aktiviert/deaktiviert, der beim Fokussieren im einfachen Browser angezeigt wird.",
-			"description": "Eine sehr einfache, integrierte Webansicht zum Anzeigen von Webinhalten.",
-			"displayName": "Einfacher Browser"
+			"configuration.focusLockIndicator.enabled.description": "Hiermee word die drywende aanwyser geaktiveer/gedeaktiveer wat by fokus in die eenvoudige blaaier gewys word.",
+			"description": "'n Baie eenvoudige, geïntegreerde webaansig om webinhoud te wys.",
+			"displayName": "Eenvoudige blaaier"
 		}
 	}
 }

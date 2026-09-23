@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Julia-Dateien.",
-			"displayName": "Julia-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Julia-lêers.",
+			"displayName": "Julia-taalgrondbeginsels"
 		}
 	}
 }

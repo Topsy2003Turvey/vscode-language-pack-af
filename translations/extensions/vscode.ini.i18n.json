@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Ini-Dateien.",
-			"displayName": "Ini-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Ini-lêers.",
+			"displayName": "Ini-taalgrondbeginsels"
 		}
 	}
 }

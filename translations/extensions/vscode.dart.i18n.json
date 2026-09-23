@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in DART-Dateien.",
-			"displayName": "DART-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in DART-lêers.",
+			"displayName": "DART-taalgrondbeginsels"
 		}
 	}
 }

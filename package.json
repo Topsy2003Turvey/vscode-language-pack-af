@@ -407,6 +407,6 @@
 		]
 	},
 	"scripts": {
-		"update": "cd ../vscode && npm run update-localization-extension bg"
+		"update": "cd ../vscode && npm run update-localization-extension af"
 	}
 }

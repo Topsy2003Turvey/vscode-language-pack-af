@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Rotes Design für Visual Studio Code",
-			"displayName": "Rotes Design",
-			"themeLabel": "Rot"
+			"description": "Rooi tema vir Visual Studio Code",
+			"displayName": "Rooi tema",
+			"themeLabel": "Rooi"
 		}
 	}
 }

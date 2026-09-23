@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Rust-Dateien.",
-			"displayName": "Rust-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Rust-lêers.",
+			"displayName": "Rust-taalgrondbeginsels"
 		}
 	}
 }

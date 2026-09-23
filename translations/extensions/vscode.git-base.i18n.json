@@ -9,22 +9,22 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Branch name": "Branchname",
-			"Choose a URL to clone from.": "Wählen Sie eine URL für den Klonvorgang aus.",
-			"No remote repositories found.": "Keine Remoterepositorys gefunden.",
-			"Provide repository URL": "Repository-URL angeben",
-			"Provide repository URL or pick a repository source.": "Geben Sie die Repository-URL an, oder wählen Sie eine Repositoryquelle aus.",
-			"Repository name": "Repositoryname",
-			"Repository name (type to search)": "Repositoryname (zur Suche eingeben)",
+			"Branch name": "Taknaam",
+			"Choose a URL to clone from.": "Kies 'n URL vir die kloonproses.",
+			"No remote repositories found.": "Geen afgeleë bewaarplekke gevind nie.",
+			"Provide repository URL": "Gee bewaarplek-URL",
+			"Provide repository URL or pick a repository source.": "Gee die bewaarplek-URL, of kies 'n bewaarplekbron.",
+			"Repository name": "Bewaarpleknaam",
+			"Repository name (type to search)": "Bewaarpleknaam (tik om te soek)",
 			"URL": "URL",
-			"recently opened": "zuletzt geöffnet",
-			"remote sources": "remotequellen",
-			"{0} Error: {1}": "{0}-Fehler: {1}"
+			"recently opened": "onlangs oopgemaak",
+			"remote sources": "afgeleë bronne",
+			"{0} Error: {1}": "{0}-fout: {1}"
 		},
 		"package": {
-			"command.api.getRemoteSources": "Remotequellen abrufen",
-			"description": "Statische Git-Beiträge und -Auswahl.",
-			"displayName": "Git-Basis"
+			"command.api.getRemoteSources": "Haal afgeleë bronne op",
+			"description": "Statiese Git-bydraes en -keuse.",
+			"displayName": "Git-basis"
 		}
 	}
 }

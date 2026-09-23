@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Go-Dateien.",
-			"displayName": "Go-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Go-lêers.",
+			"displayName": "Go-taalgrondbeginsels"
 		}
 	}
 }

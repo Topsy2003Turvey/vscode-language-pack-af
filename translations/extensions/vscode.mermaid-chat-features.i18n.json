@@ -9,16 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Mermaid Diagram": "Mermaid-Diagramm",
-			"Open in Editor": "Im Editor öffnen",
-			"Reset Zoom": "Zoom zurücksetzen",
-			"Zoom In": "Vergrößern",
-			"Zoom Out": "Verkleinern"
+			"Mermaid Diagram": "Mermaid-diagram",
+			"Open in Editor": "Maak in redigeerder oop",
+			"Reset Zoom": "Stel zoom terug",
+			"Zoom In": "Zoem in",
+			"Zoom Out": "Zoem uit"
 		},
 		"package": {
-			"config.enabled.description": "Aktivieren Sie ein Tool für das Rendern von Mermaid-Diagrammen in Chat-Antworten.",
-			"description": "Fügt integrierten Chats Unterstützung für Mermaid-Diagramme hinzu.",
-			"displayName": "Mermaid-Chatfunktionen"
+			"config.enabled.description": "Aktiveer 'n hulpmiddel vir die lewer van Mermaid-diagramme in kletsantwoorde.",
+			"description": "Voeg ondersteuning vir Mermaid-diagramme by geïntegreerde kletse.",
+			"displayName": "Mermaid-kletsfunksies"
 		}
 	}
 }

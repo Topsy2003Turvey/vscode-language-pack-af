@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Abyss-Design für Visual Studio Code",
-			"displayName": "Abyss-Design",
+			"description": "Abyss-tema vir Visual Studio Code",
+			"displayName": "Abyss-tema",
 			"themeLabel": "Abyss"
 		}
 	}

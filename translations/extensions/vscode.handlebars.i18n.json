@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Bietet Syntaxhervorhebung und Klammernabgleich in Handlebars-Dateien.",
-			"displayName": "Handlebars-Sprachgrundlagen"
+			"description": "Bied sintaksismerking en hakiespassing in Handlebars-lêers.",
+			"displayName": "Handlebars-taalgrondbeginsels"
 		}
 	}
 }
