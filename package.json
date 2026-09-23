@@ -1,12 +1,12 @@
 {
 	"name": "vscode-language-pack-af",
-	"displayName": "Afrikaans Language Pack for Visual Studio Code",
-	"description": "Language pack extension for Afrikaans",
+	"displayName": "Community Afrikaans Language Pack",
+	"description": "Community language pack that localizes the Visual Studio Code UI into Afrikaans",
 	"version": "1.131.0",
 	"publisher": "Topsy2003Turvey",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-loc"
+		"url": "https://github.com/Topsy2003Turvey/vscode-language-pack-af"
 	},
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {
