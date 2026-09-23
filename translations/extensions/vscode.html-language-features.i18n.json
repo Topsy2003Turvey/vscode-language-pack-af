@@ -16,7 +16,7 @@
 			"'{0}'": "\"{0}\"",
 			"( expected": "( verwag",
 			") expected": ") verwag",
-			"<undefined>": "<undefined>",
+			"<undefined>": "<ongedefinieer>",
 			"@font-face": "@font-face",
 			"@font-face rule must define 'src' and 'font-family' properties": "Die \"@font-face\"-reël moet die eienskappe \"src\" en \"font-family\" definieer.",
 			"@keyframes {0}": "@keyframes {0}",

@@ -10,7 +10,7 @@
 	"contents": {
 		"bundle": {
 			"$ref '{0}' in '{1}' can not be resolved.": "$ref „{0}“ in „{1}“ kan nie opgelos word nie.",
-			"<empty>": "<empty>",
+			"<empty>": "<leeg>",
 			"A default value. Used by suggestions.": "'n Standaardwaarde. Word deur voorstelle gebruik.",
 			"A descriptive title of the schema.": "'n Beskrywende titel van die skema.",
 			"A long description of the schema. Used in hover menus and suggestions.": "'n Lang beskrywing van die skema. Word in sweefkieslyste en voorstelle gebruik.",
