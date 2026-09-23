@@ -21,7 +21,7 @@
 			"ipynb.pasteImagesAsAttachments.enabled": "Aktiveer/deakteer die invoeg van beelde in Markdown-selle in IPYNB-notaboeklêers. Ingevoegde beelde word as aanhangsels in die sel ingevoeg.",
 			"markdownAttachmentRenderer.displayName": "Selaanhangsel-renderer „Markdown-It-IPYNB“",
 			"newUntitledIpynb.shortTitle": "Jupyter-notaboek",
-			"newUntitledIpynb.title": "Nuwe Jupyter Notebook",
+			"newUntitledIpynb.title": "Nuwe Jupyter-notaboek",
 			"openCellOutput.title": "Maak seluitset in die teksredigeerder oop",
 			"openIpynbInNotebookEditor.title": "Maak IPYNB-lêer in die notaboekredigeerder oop"
 		}

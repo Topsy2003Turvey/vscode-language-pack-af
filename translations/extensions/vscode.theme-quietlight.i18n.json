@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Still, ligte tema vir Visual Studio Code",
-			"displayName": "Still, ligte tema",
-			"themeLabel": "Still lig"
+			"description": "Stil, ligte tema vir Visual Studio Code",
+			"displayName": "Stil, ligte tema",
+			"themeLabel": "Stil lig"
 		}
 	}
 }

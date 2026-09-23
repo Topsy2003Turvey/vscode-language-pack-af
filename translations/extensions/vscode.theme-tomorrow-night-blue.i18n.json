@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Nagblou Tomorrow-tema vir Visual Studio Code",
-			"displayName": "Nagblou Tomorrow-tema",
-			"themeLabel": "Tomorrow nagblou"
+			"description": "Nagblou Môre-tema vir Visual Studio Code",
+			"displayName": "Nagblou Môre-tema",
+			"themeLabel": "Môre nagblou"
 		}
 	}
 }

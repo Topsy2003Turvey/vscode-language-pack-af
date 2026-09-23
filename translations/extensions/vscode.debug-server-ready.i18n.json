@@ -13,7 +13,7 @@
 			"Format uri ('{0}') uses a substitution placeholder but pattern did not capture anything.": "URI-formaat ('{0}') gebruik 'n vervangingsplekhouer, maar die patroon het niks vasgelê nie."
 		},
 		"package": {
-			"debug.server.ready.action.debugWithChrome.description": "Begin ontfout met die \"Debugger vir Chrome\".",
+			"debug.server.ready.action.debugWithChrome.description": "Begin ontfouting met die \"Ontfouter vir Chrome\".",
 			"debug.server.ready.action.description": "Gebruik van die URI wanneer die bediener gereed is.",
 			"debug.server.ready.action.openExternally.description": "Maak URI ekstern oop met die standaardtoepassing.",
 			"debug.server.ready.action.openIntegratedBrowser.description": "Maak URL in die geïntegreerde blaaier oop.",
@@ -24,7 +24,7 @@
 			"debug.server.ready.pattern.description": "Die bediener is gereed wanneer hierdie patroon op die ontfoutkonsole verskyn. Die eerste vasleggingsgroep moet 'n URI of 'n poortnommer bevat.",
 			"debug.server.ready.serverReadyAction.description": "Reageer op 'n URI wanneer 'n bedienerprogram tydens ontfout gereed is (word aangedui deur 'n boodskap soos \"Poort 3000 word gemonitor\" of \"https://localhost:5001 word tans gemonitor\" na die ontfoutkonsole te stuur.)",
 			"debug.server.ready.uriFormat.description": "'n Formaatstring wat gebruik word wanneer die URI met 'n poortnommer geskep word. Die eerste '%s' word deur die poortnommer vervang.",
-			"debug.server.ready.webRoot.description": "Die waarde wat aan die ontfoutkonfigurasie vir die \"Debugger vir Chrome\" oorgedra word.",
+			"debug.server.ready.webRoot.description": "Die waarde wat aan die ontfoutkonfigurasie vir die \"Ontfouter vir Chrome\" oorgedra word.",
 			"description": "Maak URI in blaaier oop wanneer die bediener gereed is waarvoor ontfout uitgevoer word.",
 			"displayName": "Aksie \"Bediener gereed\""
 		}

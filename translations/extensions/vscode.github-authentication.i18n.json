@@ -11,7 +11,7 @@
 		"bundle": {
 			"A reload is required for the fetch setting change to take effect.": "'n Herlaai is vereis sodat die verandering van die haal-instelling in werking tree.",
 			"Continue to GitHub": "Gaan voort na GitHub",
-			"Continue to GitHub to create a Personal Access Token (PAT)": "Gaan voort na GitHub om 'n persoonlike toegangtoken (Personal Access Token, PAT) te skep.",
+			"Continue to GitHub to create a Personal Access Token (PAT)": "Gaan voort na GitHub om 'n persoonlike toegangsteken (PAT) te skep.",
 			"Copy & Continue to Browser": "Kopieer en gaan voort na die blaaier",
 			"GitHub Authentication - Reload required": "GitHub-verifikasie – Herlaai is vereis.",
 			"GitHub Enterprise Server URI is not a valid URI: {0}": "GitHub Enterprise Server-URI is nie 'n geldige URI nie: {0}",

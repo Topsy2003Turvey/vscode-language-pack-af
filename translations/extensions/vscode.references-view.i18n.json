@@ -50,7 +50,7 @@
 			"cmd.references-view.showSupertypes": "Wys overtipes",
 			"cmd.references-view.showTypeHierarchy": "Wys tipehiërargie",
 			"config.references.preferredLocation": "Beheer of \"Bekyk verwysings\" of \"Soek verwysings\" geroep word wanneer CodeLens-verwysings gekies word.",
-			"config.references.preferredLocation.peek": "Wys verwysings in die Peek-redigeerder.",
+			"config.references.preferredLocation.peek": "Wys verwysings in die loerredigeerder.",
 			"config.references.preferredLocation.view": "Wys verwysings in 'n aparte aansig.",
 			"container.title": "Verwysings",
 			"description": "Soekresultate vir verwysings as 'n aparte, stabiele aansig in die sybalk",
