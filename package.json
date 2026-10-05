@@ -1,8 +1,8 @@
 {
 	"name": "afrikaans-gemeenskap",
-	"displayName": "Afrikaans (Gemeenskap)",
-	"description": "Onamptelike gemeenskapsvertaling van die VS Code-koppelvlak na Afrikaans. Nie deur Microsoft uitgegee nie.",
-	"version": "1.0.0",
+	"displayName": "Afrikaans Language Pack for VS Code",
+	"description": "Language pack for VS Code in Afrikaans. Taalpak vir VS Code in Afrikaans.",
+	"version": "1.0.4",
 	"publisher": "Topsy2003Turvey",
 	"homepage": "https://github.com/Topsy2003Turvey/vscode-language-pack-af",
 	"bugs": {
@@ -13,13 +13,13 @@
 		"type": "git",
 		"url": "https://github.com/Topsy2003Turvey/vscode-language-pack-af"
 	},
-	"license": "SEE MIT LICENSE IN LICENSE.md",
+	"license": "MIT",
 	"engines": {
-		"vscode": "^1.70.0"
+		"vscode": ">=1.70.0"
 	},
 	"icon": "languagepack.png",
 	"galleryBanner": {
-		"color": "#0B1F3A",
+		"color": "#EE7203",
 		"theme": "dark"
 	},
 	"categories": [
@@ -27,9 +27,9 @@
 	],
 	"keywords": [
 		"Afrikaans",
-		"gemeenskap",
-		"onamptelik",
-		"community"
+		"language pack",
+		"taalpak",
+		"VS Code"
 	],
 	"contributes": {
 		"localizations": [
