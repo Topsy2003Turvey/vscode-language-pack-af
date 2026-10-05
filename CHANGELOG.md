@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "vscode-language-pack-af" language pack will be documented in this file.
+All notable changes to the Afrikaans (Gemeenskap) extension are documented in this file.
 
 ## [Unreleased]
 
+
+## [1.0.0] - 2026-10-04
+* New extension id `afrikaans-gemeenskap`, so the listing is not named like an official language pack
+* Display name is now “Afrikaans (Gemeenskap)”
+* Version numbering no longer follows official language-pack releases
+* License keeps Microsoft’s MIT copyright on the original source strings
+* Support links point at this repository
 
 ## [1.131.5] - 2026-09-27
 * Own orange-on-navy “A / AF” icon so the pack no longer uses the Microsoft globe

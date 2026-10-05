@@ -1,9 +1,14 @@
 {
-	"name": "vscode-language-pack-af",
-	"displayName": "Afrikaans vir VS Code (Gemeenskap)",
-	"description": "Onamptelike gemeenskaptaalpak wat die VS Code-koppelvlak in Afrikaans vertaal. Nie deur Microsoft of MS-CEINTL uitgegee nie.",
-	"version": "1.131.5",
+	"name": "afrikaans-gemeenskap",
+	"displayName": "Afrikaans (Gemeenskap)",
+	"description": "Onamptelike gemeenskapsvertaling van die VS Code-koppelvlak na Afrikaans. Nie deur Microsoft uitgegee nie.",
+	"version": "1.0.0",
 	"publisher": "Topsy2003Turvey",
+	"homepage": "https://github.com/Topsy2003Turvey/vscode-language-pack-af",
+	"bugs": {
+		"url": "https://github.com/Topsy2003Turvey/vscode-language-pack-af/issues"
+	},
+	"qna": "https://github.com/Topsy2003Turvey/vscode-language-pack-af/issues",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Topsy2003Turvey/vscode-language-pack-af"

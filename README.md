@@ -1,61 +1,57 @@
-# Afrikaans vir VS Code (Gemeenskap)
+# Afrikaans (Gemeenskap)
 
-Onamptelike gemeenskaptaalpak wat die VS Code-koppelvlak in Afrikaans vertaal.
+Onamptelike gemeenskapsvertaling van die VS Code-koppelvlak na Afrikaans, deur Stefan Turvey.
 
-Hierdie uitbreiding word **nie** deur Microsoft of MS-CEINTL uitgegee nie. Dit is 'n onafhanklike projek deur Stefan Turvey.
+Hierdie uitbreiding word nie deur Microsoft uitgegee nie en is nie deel van die amptelike taalpakke nie. Die uitbreiding-ID is `Topsy2003Turvey.afrikaans-gemeenskap`.
+
+Die oorspronklike bronstrings kom uit die oopbronprojek [Visual Studio Code](https://github.com/microsoft/vscode) en [vscode-loc](https://github.com/microsoft/vscode-loc) (MIT, Copyright Microsoft Corporation). Die Afrikaanse teks is 'n gemeenskapsvertaling.
 
 ## Gebruik
 
-1. Installeer die uitbreiding (VSIX of Marketplace, as dit beskikbaar is).
+1. Installeer die uitbreiding vanaf die Marketplace, of vanaf 'n VSIX.
 2. Druk `Ctrl+Shift+P`, tik `display`, en kies **Anpas vertoonstaal**.
 3. Kies **Afrikaans**, en herbegin VS Code.
 
 ## Bydraes
 
-Terugvoer en verbeterings hoort in hierdie bewaarplek:
+Terugvoer en verbeterings hoort hier:
 
-https://github.com/Topsy2003Turvey/vscode-language-pack-af
+https://github.com/Topsy2003Turvey/vscode-language-pack-af/issues
 
-Dit is nie 'n amptelike Microsoft-lokaliseringsprojek nie. Moet asseblief nie kwessies by `microsoft/vscode-loc` oopmaak vir hierdie pak nie.
+Moet asseblief nie kwessies vir hierdie pak by Microsoft se bewaarplekke oopmaak nie.
 
 ## Lisensie
 
-MIT — sien [LICENSE.md](LICENSE.md). Kopiereg 2026 Stefan Turvey.
+MIT. Sien [LICENSE.md](LICENSE.md).
 
-## Erkenning
-
-Deur die gemeenskap, vir die gemeenskap.
-
-**Bydraer:** Stefan Turvey
+Kopiereg 2026 Stefan Turvey. Bronstrings: Kopiereg Microsoft Corporation.
 
 ---
 
-# Afrikaans for VS Code (Community)
+# Afrikaans (Community)
 
-Unofficial community language pack that localizes the VS Code UI into Afrikaans.
+Unofficial community translation of the VS Code interface into Afrikaans, by Stefan Turvey.
 
-This extension is **not** published by Microsoft or MS-CEINTL. It is an independent project by Stefan Turvey.
+This extension is not published by Microsoft and is not one of the official language packs. The extension id is `Topsy2003Turvey.afrikaans-gemeenskap`.
+
+The original source strings come from the open-source projects [Visual Studio Code](https://github.com/microsoft/vscode) and [vscode-loc](https://github.com/microsoft/vscode-loc) (MIT, Copyright Microsoft Corporation). The Afrikaans text is a community translation.
 
 ## Usage
 
-1. Install the extension (VSIX or Marketplace, if available).
+1. Install the extension from the Marketplace, or from a VSIX.
 2. Press `Ctrl+Shift+P`, type `display`, and choose **Configure Display Language**.
 3. Select **Afrikaans**, then restart VS Code.
 
 ## Contributing
 
-Send feedback and improvements to this repository:
+Send feedback and fixes here:
 
-https://github.com/Topsy2003Turvey/vscode-language-pack-af
+https://github.com/Topsy2003Turvey/vscode-language-pack-af/issues
 
-This is not an official Microsoft localization project. Please do not open issues on `microsoft/vscode-loc` for this pack.
+Please do not open issues for this pack on Microsoft's repositories.
 
 ## License
 
-MIT — see [LICENSE.md](LICENSE.md). Copyright 2026 Stefan Turvey.
+MIT. See [LICENSE.md](LICENSE.md).
 
-## Credits
-
-By the community, for the community.
-
-**Contributor:** Stefan Turvey
+Copyright 2026 Stefan Turvey. Source strings: Copyright Microsoft Corporation.

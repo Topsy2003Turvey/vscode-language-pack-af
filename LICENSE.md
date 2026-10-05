@@ -1,6 +1,15 @@
-# MIT License
+MIT License
 
 Copyright (c) 2026 Stefan Turvey
+
+This extension is an unofficial community Afrikaans translation of the
+Visual Studio Code user interface. It is not published by Microsoft.
+
+Portions of the localization files — the file format and the original
+source strings — are derived from Visual Studio Code and the Visual Studio
+Code localization project (https://github.com/microsoft/vscode-loc):
+
+Copyright (c) Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
